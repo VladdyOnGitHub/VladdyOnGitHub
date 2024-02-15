@@ -3,7 +3,7 @@
 I'm a recently graduated computer scientist based in Aalborg, Denmark. :computer:
 
 #### Currently:
-- Working as a Junior Software Developer @ SafeEx
+- Working as a Junior Software Developer
 
 #### Languages I enjoy working with:
 - Python
